@@ -17,6 +17,9 @@ spaces in the lot.
 ✔The system is designed to be highly accurate, and it can detect small and large
 vehicles, even in low-light conditions.
 
+Demo Link: https://drive.google.com/file/d/1qienOxVnJSORjpeQOSI6ZVpMY4JNzJmD/view?usp=drive_link
+
+
 # Tech stack :
 python,
 OpenCV,
