@@ -19,7 +19,6 @@ vehicles, even in low-light conditions.
 
 Demo Link: https://drive.google.com/file/d/1arYsS1D0CyqbqqvUBT55q3oEgrFQyZPv/view?usp=sharing
 
-
 # Tech stack :
 python,
 OpenCV,
